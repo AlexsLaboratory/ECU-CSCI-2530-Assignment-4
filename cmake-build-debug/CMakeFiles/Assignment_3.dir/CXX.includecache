@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/LoweM/OneDrive - East Carolina University/Spring Semester 2020/CSCI 2530 section 001/Programming Assignments/Assignment 3/hailstone.cpp
+cstdio
+-
+iostream
+-
+
